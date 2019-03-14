@@ -29,7 +29,7 @@ class Student {
 }
 
  
-class Ideone {
+class ServeStudent {
 
 	/**
 	 * @param args
